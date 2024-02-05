@@ -25,7 +25,7 @@ These utilities are created by third parties and not officially affiliated or su
 |-|-|
 |Category|Companion|
 |Utility|[Stash_helper](https://github.com/philpw99/Stash_Helper){:target="_blank"}|
-|Description|Adds some windows-specific tools to Stash (navigate from icon, installation help, etc).|
+|Description|Adds some additional features to Stash (bookmarks, playlist creation, play in external player... etc).|
 |Author|[philpw99](https://github.com/philpw99){:target="_blank"}|
 |Screenshots|![](/assets/add-ons/fixed_table_width.png)|
 
